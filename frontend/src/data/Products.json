@@ -1,0 +1,413 @@
+[
+    {
+      "id": 1,
+      "title": "Stylish Denim Jeans",
+      "category": "clothings",
+      "description": "Upgrade your wardrobe with these stylish denim jeans. Comfortable fit and trendy design make them a must-have.",
+     "image": "https://media.vogue.co.uk/photos/6127d8292b89bde89b653be7/1:1/w_3503,h_3503,c_limit/GettyImages-1327418904.jpg",
+      "discount_percentage": 20,
+      "ratings": 4.8,
+      "price": 59.99
+    },
+    {
+      "id": 2,
+      "title": "Modern Sectional Sofa",
+      "category": "furnitures",
+      "description": "Transform your living room with this modern sectional sofa. Plush cushions and sleek design for ultimate comfort and style.",
+     "image": "https://brooklynspace.co/cdn/shop/files/eloquence-mcm-modern-modular-sectional-sofa-green-velvet-brooklyn-space-modern-furniture_2.jpg",
+      "discount_percentage": 15,
+      "ratings": 4.5,
+      "price": 799.99
+    },
+    {
+      "id": 3,
+      "title": "Organic Quinoa Pack",
+      "category": "foods",
+      "description": "Boost your health with our organic quinoa pack. Packed with nutrients, it's a versatile addition to your pantry.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 10,
+      "ratings": 4.7,
+      "price": 14.99
+    },
+    {
+      "id": 4,
+      "title": "Smart LED TV",
+      "category": "electronics",
+      "description": "Experience entertainment like never before with our smart LED TV. Stunning visuals and smart features for an immersive viewing experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 25,
+      "ratings": 4.9,
+      "price": 599.99
+    },
+    {
+      "id": 5,
+      "title": "Casual T-Shirt",
+      "category": "clothings",
+      "description": "Stay comfortable and stylish with our casual t-shirt. Soft fabric and a range of colors to choose from.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.5,
+      "price": 19.99
+    },
+    {
+      "id": 6,
+      "title": "Elegant Coffee Table",
+      "category": "furnitures",
+      "description": "Add sophistication to your living space with our elegant coffee table. Glass top and modern design for a touch of class.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 12,
+      "ratings": 4.2,
+      "price": 249.99
+    },
+    {
+      "id": 7,
+      "title": "Exotic Fruit Basket",
+      "category": "foods",
+      "description": "Indulge in a variety of exotic fruits with our fruit basket. Fresh and delicious, it's a healthy treat for any occasion.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 18,
+      "ratings": 4.8,
+      "price": 29.99
+    },
+    {
+      "id": 8,
+      "title": "Wireless Gaming Mouse",
+      "category": "electronics",
+      "description": "Enhance your gaming experience with our wireless gaming mouse. Precision and ergonomic design for ultimate control.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 20,
+      "ratings": 4.6,
+      "price": 49.99
+    },
+    {
+      "id": 9,
+      "title": "Winter Jacket",
+      "category": "clothings",
+      "description": "Stay warm in style with our winter jacket. Insulated and waterproof, it's perfect for chilly days.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.3,
+      "price": 79.99
+    },
+    {
+      "id": 10,
+      "title": "Luxe Leather Sofa",
+      "category": "furnitures",
+      "description": "Upgrade your living room with our luxe leather sofa. Plush cushions and genuine leather for a luxurious seating experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 10,
+      "ratings": 4.4,
+      "price": 1499.99
+    },
+    {
+      "id": 11,
+      "title": "Fitness Tracker",
+      "category": "electronics",
+      "description": "Monitor your fitness goals with our fitness tracker. Sleek design and advanced features to keep you on track.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 22,
+      "ratings": 4.7,
+      "price": 39.99
+    },
+    {
+      "id": 12,
+      "title": "Summer Dress",
+      "category": "clothings",
+      "description": "Stay cool and chic in our summer dress. Flowy fabric and vibrant prints for a perfect summer look.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 18,
+      "ratings": 4.6,
+      "price": 34.99
+    },
+    {
+      "id": 13,
+      "title": "Convertible Sofa Bed",
+      "category": "furnitures",
+      "description": "Maximize your space with our convertible sofa bed. Stylish and functional, it's perfect for small apartments.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.2,
+      "price": 599.99
+    },
+    {
+      "id": 14,
+      "title": "Gourmet Pasta Set",
+      "category": "foods",
+      "description": "Elevate your dining experience with our gourmet pasta set. Handcrafted pasta and premium sauces for a delightful meal.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 20,
+      "ratings": 4.9,
+      "price": 24.99
+    },
+    {
+      "id": 15,
+      "title": "Bluetooth Wireless Headphones",
+      "category": "electronics",
+      "description": "Immerse yourself in music with our Bluetooth wireless headphones. Comfortable fit and high-quality sound for a superior audio experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.5,
+      "price": 69.99
+    },
+    {
+      "id": 16,
+      "title": "Casual Hoodie",
+      "category": "clothings",
+      "description": "Stay cozy in our casual hoodie. Soft fabric and stylish design for a laid-back yet trendy look.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 18,
+      "ratings": 4.4,
+      "price": 44.99
+    },
+    {
+      "id": 17,
+      "title": "Mid-Century Modern Desk",
+      "category": "furnitures",
+      "description": "Upgrade your workspace with our mid-century modern desk. Sleek design and ample storage for a productive work environment.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 12,
+      "ratings": 4.7,
+      "price": 299.99
+    },
+    {
+      "id": 18,
+      "title": "Artisanal Cheese Collection",
+      "category": "foods",
+      "description": "Indulge in our artisanal cheese collection. Handcrafted cheeses with unique flavors for a gourmet experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 25,
+      "ratings": 4.8,
+      "price": 39.99
+    },
+    {
+      "id": 19,
+      "title": "Smart Thermostat",
+      "category": "electronics",
+      "description": "Optimize your home's energy efficiency with our smart thermostat. Easy control and energy-saving features for a smart home.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 10,
+      "ratings": 4.6,
+      "price": 89.99
+    },
+    {
+      "id": 20,
+      "title": "Winter Scarf Set",
+      "category": "clothings",
+      "description": "Stay warm and stylish with our winter scarf set. Cozy fabric and fashionable designs to complement your winter wardrobe.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.5,
+      "price": 24.99
+    },
+    {
+      "id": 21,
+      "title": "Retro Record Player",
+      "category": "electronics",
+      "description": "Experience the nostalgia with our retro record player. Vintage design and modern features for a classic audio experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 20,
+      "ratings": 4.9,
+      "price": 149.99
+    },
+    {
+      "id": 22,
+      "title": "Formal Business Suit",
+      "category": "clothings",
+      "description": "Make a statement with our formal business suit. Tailored for perfection, it's the epitome of professional style.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 18,
+      "ratings": 4.7,
+      "price": 129.99
+    },
+    {
+      "id": 23,
+      "title": "Classic Wooden Bookshelf",
+      "category": "furnitures",
+      "description": "Organize your books in style with our classic wooden bookshelf. Sturdy construction and elegant design for a timeless addition to your home.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.5,
+      "price": 179.99
+    },
+    {
+      "id": 24,
+      "title": "Gourmet Tea Sampler",
+      "category": "foods",
+      "description": "Explore a world of flavors with our gourmet tea sampler. Handpicked teas from around the globe for a delightful tea experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 12,
+      "ratings": 4.8,
+      "price": 19.99
+    },
+    {
+      "id": 25,
+      "title": "Wireless Charging Pad",
+      "category": "electronics",
+      "description": "Simplify your charging experience with our wireless charging pad. Fast and convenient charging for your devices.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 22,
+      "ratings": 4.6,
+      "price": 29.99
+    },
+    {
+      "id": 26,
+      "title": "Casual Jogger Pants",
+      "category": "clothings",
+      "description": "Stay comfortable and trendy in our casual jogger pants. Perfect for a relaxed day out or casual workouts.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 20,
+      "ratings": 4.7,
+      "price": 29.99
+    },
+    {
+      "id": 27,
+      "title": "Industrial Style Bar Stools",
+      "category": "furnitures",
+      "description": "Upgrade your kitchen or bar with our industrial style bar stools. Sturdy and stylish for a modern and functional space.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.3,
+      "price": 69.99
+    },
+    {
+      "id": 28,
+      "title": "Exotic Spice Set",
+      "category": "foods",
+      "description": "Add a burst of flavor to your dishes with our exotic spice set. Handpicked spices from around the world for a culinary adventure.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 18,
+      "ratings": 4.9,
+      "price": 14.99
+    },
+    {
+      "id": 29,
+      "title": "Noise-Canceling Wireless Earbuds",
+      "category": "electronics",
+      "description": "Immerse yourself in music with our noise-canceling wireless earbuds. Crystal clear sound and comfort for an enjoyable listening experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 25,
+      "ratings": 4.8,
+      "price": 79.99
+    },
+    {
+      "id": 30,
+      "title": "Athletic Running Shoes",
+      "category": "clothings",
+      "description": "Achieve your fitness goals with our athletic running shoes. Comfortable and supportive for a great running experience.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 15,
+      "ratings": 4.5,
+      "price": 49.99
+    },
+    {
+      "id": 31,
+      "title": "Convertible Coffee Dining Table",
+      "category": "furnitures",
+      "description": "Maximize your space with our convertible coffee dining table. Stylish and versatile for modern living.",
+     "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+      "discount_percentage": 20,
+      "ratings": 4.6,
+      "price": 399.99
+    },
+    {
+        "id": 33,
+        "title": "Bohemian Print Maxi Dress",
+        "category": "clothings",
+        "description": "Express your free-spirited style with our Bohemian print maxi dress. Flowing fabric and vibrant prints for a boho-chic look.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 18,
+        "ratings": 4.2,
+        "price": 39.99
+      },
+      {
+        "id": 34,
+        "title": "Mid-Century Modern Armchair",
+        "category": "furnitures",
+        "description": "Elevate your living space with our Mid-Century Modern armchair. Comfortable and stylish for a retro-inspired home.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 15,
+        "ratings": 4.9,
+        "price": 219.99
+      },
+      {
+        "id": 35,
+        "title": "Japanese Matcha Tea Set",
+        "category": "foods",
+        "description": "Experience the art of tea with our Japanese Matcha tea set. Authentic Matcha powder and traditional tools for a serene tea ceremony.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 20,
+        "ratings": 4.7,
+        "price": 29.99
+      },
+      {
+        "id": 36,
+        "title": "Smart Home Lighting Kit",
+        "category": "electronics",
+        "description": "Transform your home with our smart home lighting kit. Adjustable colors and smart controls for the perfect ambiance.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 12,
+        "ratings": 4.5,
+        "price": 89.99
+      },
+      {
+        "id": 37,
+        "title": "Cozy Cable-Knit Sweater",
+        "category": "clothings",
+        "description": "Stay warm and fashionable with our cozy cable-knit sweater. Classic design and soft fabric for a timeless winter wardrobe staple.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 15,
+        "ratings": 4.6,
+        "price": 29.99
+      },
+      {
+        "id": 38,
+        "title": "Rustic Wooden Bookends",
+        "category": "furnitures",
+        "description": "Organize your bookshelf with our rustic wooden bookends. Handcrafted and sturdy for a touch of natural elegance.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 18,
+        "ratings": 4.4,
+        "price": 19.99
+      },
+      {
+        "id": 39,
+        "title": "Mediterranean Olive Oil Set",
+        "category": "foods",
+        "description": "Enhance your culinary creations with our Mediterranean olive oil set. Premium oils infused with herbs for a flavorful experience.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 22,
+        "ratings": 4.8,
+        "price": 34.99
+      },
+      {
+        "id": 40,
+        "title": "HD Webcam with Microphone",
+        "category": "electronics",
+        "description": "Upgrade your virtual meetings with our HD webcam. Crystal clear video and built-in microphone for a professional online presence.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 15,
+        "ratings": 4.3,
+        "price": 49.99
+      },
+      {
+        "id": 41,
+        "title": "Boho Fringe Crossbody Bag",
+        "category": "clothings",
+        "description": "Complete your boho look with our fringe crossbody bag. Stylish and functional for your everyday adventures.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 20,
+        "ratings": 4.7,
+        "price": 24.99
+      },
+      {
+        "id": 42,
+        "title": "Industrial Pendant Light",
+        "category": "furnitures",
+        "description": "Illuminate your space with our industrial pendant light. Vintage design and adjustable height for a customized lighting solution.",
+       "image": "https://images.demandware.net/dw/image/v2/BBBV_PRD/on/demandware.static/-/Sites-master-catalog/default/dwb12416a1/images/170000/174801.jpg?sfrm=jpg",
+        "discount_percentage": 12,
+        "ratings": 4.6,
+        "price": 59.99
+      }
+]
+  
